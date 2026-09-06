@@ -1,3 +1,11 @@
+## 🚀 Live Streamlit App
+
+Try the Customer Churn AI Retention Advisor here:
+
+[Open Streamlit App](https://8501-m-s-kkb-use1c2-2fya4zthw2jtv-c.us-east1-2.prod.colab.dev/)
+
+
+
 Customer Churn Risk & AI Retention Advisor
 
 Project Overview
